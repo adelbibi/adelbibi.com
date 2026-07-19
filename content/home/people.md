@@ -145,6 +145,7 @@ title:
       <div class="portrait-title">
         <h2><a href="https://cemde.github.io/">Cornelius Emde</a></h2>
         <h3>PhD, University of Oxford</h3>
+          <h3>Departed to <a href="https://ai.meta.com/">Meta</a></h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>

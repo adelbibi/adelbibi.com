@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**July 9th, 2026**]: Our paper [LLMs Struggle to Rank Products Robustly](/post/musiml_icml26_award/) received one of the first-ever **MusIML Best Paper Awards** at the ICML 2026 Workshop. Congratulations to Kumail Alhamoud!
 * [**April 30th, 2026**]: **One papers** accepted to ICML 2026.
 * [**March 30th, 2026**]: **Shortlisted for Oxford University Vice-Chancellor's Breakthrough Researcher Award**: Recognizing researchers at the early stages of their careers who have made a significant impact at the University. [Breakthrough Research in Agentic AI Safety and Security](https://hr.admin.ox.ac.uk/vice-chancellors-awards#collapse5703361). Developing safeguards to identify vulnerabilities in AI agents to prevent them from leaking sensitive information or assisting malicious actors.
 * [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.

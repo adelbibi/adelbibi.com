@@ -1,8 +1,8 @@
 ---
-title: Horizon Europe Grant 2026
-subtitle: Awarded a Horizon Europe Grant (€582,101.25, Call HORIZON-CL4-2026-05) to work on AI safety and robustness.
+title: GENESIS-AI Horizon Europe Grant 2026
+subtitle: Awarded the GENESIS-AI Horizon Europe Grant (~$665,807.41, Call HORIZON-CL3-2025-02-CS-ECCC-01) to work on AI for cybersecurity.
 
-summary: Awarded a Horizon Europe Grant (€582,101.25, Call HORIZON-CL4-2026-05) to work on AI safety and robustness.
+summary: Awarded the GENESIS-AI Horizon Europe Grant (~$665,807.41, Call HORIZON-CL3-2025-02-CS-ECCC-01) to work on AI for cybersecurity.
 
 projects: []
 
@@ -28,4 +28,4 @@ categories:
 -
 ---
 
-I was awarded a Horizon Europe Grant (€582,101.25, Call: HORIZON-CL4-2026-05) to work on AI safety and robustness.
+I was awarded the HORIZON-CL3-2025-02-CS-ECCC-01 grant (~$665,807.41) by Europe Horizon, GENESIS-AI, to work on AI for cybersecurity. I am the Principal Investigator from Oxford and part of a consortium of 18 excellent partners across academia and industry for a combined fund of ~$14.8 million. This is joint with co-PI Philip Torr.

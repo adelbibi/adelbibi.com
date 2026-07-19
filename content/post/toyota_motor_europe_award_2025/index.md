@@ -1,9 +1,9 @@
 ---
 title: Toyota Motor Europe Award 2025
-subtitle: Awarded the Toyota Motor Europe Grant (~$330,000) in 2025 to work on agentic and multi-agent safety.
+subtitle: Awarded the Toyota Motor Europe Grant (£386,671.00) in 2025 to work on agentic and multi-agent safety.
 
 # Summary for listings and search engines
-summary: Awarded the Toyota Motor Europe Grant (~$330,000) in 2025 to work on agentic and multi-agent safety.
+summary: Awarded the Toyota Motor Europe Grant (£386,671.00) in 2025 to work on agentic and multi-agent safety.
 
 # Link this post with a project
 projects: []
@@ -41,4 +41,4 @@ categories:
 - 
 ---
 
-I was awarded the Toyota Motor Europe Grant (~$330,000) in 2025 to work on agentic and multi-agent safety.
+I was awarded the Toyota Motor Europe Grant (£386,671.00) in 2025 to work on agentic and multi-agent safety.

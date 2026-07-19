@@ -20,6 +20,8 @@ removePathAccents: true
 ############################
 
 module:
+  proxy: "https://proxy.golang.org"
+  private: ""
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
