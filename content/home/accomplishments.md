@@ -18,24 +18,24 @@ subtitle: 'Research grants and funding received'
 date_format: Jan 2006
 
 item:
-- certificate_url: ""
-  date_end: ""
-  date_start: "2026-07-01"
-  description: "~$1,396,714.20 (Call: HORIZON-CL4-2026-05-DIGITAL-EMERGING-02) to work on the safety of self-improving multi-agentic systems, as Principal Investigator from Oxford within a consortium of 30 partners across academia and industry with a combined fund of ~$20M, joint with co-PIs Chris Summerfield and Philip Torr."
-  image: /media/logos/horizon_europe.png
-  organization: European Research Council (Horizon Europe)
-  organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
-  title: Horizon Europe Grant (MINGLE)
-  url: /post/mingle_grant/
-- certificate_url: ""
-  date_end: ""
-  date_start: "2026-04-01"
-  description: "~$665,807.41 (Call: HORIZON-CL3-2025-02-CS-ECCC-01) to work on AI for cybersecurity, as Principal Investigator from Oxford within a consortium of 18 partners across academia and industry with a combined fund of ~$14.8M, joint with co-PI Philip Torr."
-  image: /media/logos/horizon_europe.png
-  organization: European Research Council (Horizon Europe)
-  organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
-  title: Horizon Europe Grant (GENESIS-AI)
-  url: /post/horizon_europe_grant/
+# - certificate_url: ""
+#   date_end: ""
+#   date_start: "2026-07-01"
+#   description: "~$1,396,714.20 (Call: HORIZON-CL4-2026-05-DIGITAL-EMERGING-02) to work on the safety of self-improving multi-agentic systems, as Principal Investigator from Oxford within a consortium of 30 partners across academia and industry with a combined fund of ~$20M, joint with co-PIs Chris Summerfield and Philip Torr."
+#   image: /media/logos/horizon_europe.png
+#   organization: European Research Council (Horizon Europe)
+#   organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
+#   title: Horizon Europe Grant (MINGLE)
+#   url: /post/mingle_grant/
+# - certificate_url: ""
+#   date_end: ""
+#   date_start: "2026-04-01"
+#   description: "~$665,807.41 (Call: HORIZON-CL3-2025-02-CS-ECCC-01) to work on AI for cybersecurity, as Principal Investigator from Oxford within a consortium of 18 partners across academia and industry with a combined fund of ~$14.8M, joint with co-PI Philip Torr."
+#   image: /media/logos/horizon_europe.png
+#   organization: European Research Council (Horizon Europe)
+#   organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
+#   title: Horizon Europe Grant (GENESIS-AI)
+#   url: /post/horizon_europe_grant/
 - certificate_url: ""
   date_end: ""
   date_start: "2026-04-01"

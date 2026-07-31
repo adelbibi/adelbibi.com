@@ -9,7 +9,7 @@ projects: []
 date: "2026-01-01T00:00:00Z"
 lastmod: "2026-01-01T00:00:00Z"
 
-draft: false
+draft: true
 featured: true
 
 image:
