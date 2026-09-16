@@ -1,0 +1,68 @@
+// Custom font sizes for better readability
+
+// Appointments section - increase font size
+.experience-item {
+  .position-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  .company-name {
+    font-size: 1rem;
+  }
+
+  .date {
+    font-size: 0.95rem;
+  }
+}
+
+// About widget appointments styling
+.appointments {
+  .appointment-item {
+    margin-bottom: 1.2rem;
+
+    .title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+
+    .institution {
+      font-size: 1rem;
+    }
+
+    .date {
+      font-size: 0.9rem;
+      color: #666;
+    }
+  }
+}
+
+// Background widget - list-style bullets for position and degree titles
+.appointment-role-item,
+.education-degree-item {
+  display: list-item;
+  margin-left: 1.2rem;
+  list-style-type: disc;
+}
+
+// Hide Wowchemy footer text
+.article-style {
+  a[href*="wowchemy.com"] {
+    &,
+    &:parent {
+      display: none !important;
+    }
+  }
+}
+
+// Hide the "Published with Wowchemy" text
+.article-style > p:last-of-type a[href*="wowchemy"] {
+  display: none !important;
+}
+
+// Hide entire paragraph containing wowchemy
+.powered-by a[href*="wowchemy"] {
+  display: none !important;
+}
+

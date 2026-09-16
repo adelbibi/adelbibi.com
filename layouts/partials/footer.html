@@ -1,0 +1,8 @@
+<footer class="site-footer">
+  {{ $copyright := .Site.Params.footer.copyright }}
+  {{ with $copyright.notice }}
+    <p class="powered-by">
+      {{ . | safeHTML }}
+    </p>
+  {{ end }}
+</footer>

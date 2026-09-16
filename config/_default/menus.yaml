@@ -31,7 +31,7 @@ main:
   #     - name: Recent Publications
   #       url: '#publications'
   #       weight: 2
-  - name: Grants & Funding
+  - name: Grants, Funding & Media
     url: '#accomplishments'
     weight: 35
   - name: Awards & Recognition

@@ -297,12 +297,12 @@ title:
     <div class="col-md-12 section-heading">
       <h1>Visitors</h1>
     </div>
-    <!-- Ziyan Wang (Current) -->
+    <!-- Ziyan Wang -->
     <div class="col-12 col-sm-auto people-person">
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/ziyan-wang.jpeg" alt="Avatar">
       <div class="portrait-title">
         <h2><a href="https://ziyan-wang98.github.io/">Ziyan Wang</a></h2>
-        <h3>Visitor, King's College London, March 2026 - Present</h3>
+        <h3>Visitor, King's College London, March 2026 - September 2026</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>

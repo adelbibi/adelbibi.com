@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<article class="article">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{/* Remove the Wowchemy footer text if present */}}
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const elements = document.querySelectorAll('a[href*="wowchemy.com"]');
+        elements.forEach(el => {
+          const paragraph = el.closest('p');
+          if (paragraph && paragraph.textContent.includes('Published with')) {
+            paragraph.remove();
+          }
+        });
+      });
+    </script>
+  </div>
+
+  {{/* Article metadata */}}
+
+</article>
+
+{{ end }}
