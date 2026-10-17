@@ -81,6 +81,23 @@ title:
   </div> <!-- Closing row -->
 </div> <!-- Closing container -->
 
+<div class="container"> <!-- Main container for the section (MSc Students)-->
+  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
+    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
+      <h1>MSc Students</h1>
+    </div>
+    <!-- Lily Li -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/lily-li.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/lily-sijia-li/">Lily Li</a></h2>
+        <h3>MSc Student, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+  </div> <!-- Closing row -->
+</div> <!-- Closing container -->
+
 
 
 
