@@ -36,6 +36,15 @@ item:
 #   organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
 #   title: Horizon Europe Grant (GENESIS-AI)
 #   url: /post/horizon_europe_grant/
+- certificate_url: "https://newsroom.ap.org/editorial-photos-videos/detail?itemid=459544552a3d456fa74127be77480f27&mediatype=video"
+  date_end: ""
+  date_start: "2026-09-23"
+  description: "Three interviews with the Associated Press in September 2026 on AI safety and security, where AI is heading, and the geopolitics surrounding it."
+  image: /media/logos/associated_press.png
+  organization: Associated Press
+  organization_url: https://apnews.com/
+  title: Interviews on AI Safety, Security, and Geopolitics
+  url: /post/associated_press_interviews/
 - certificate_url: "https://www.youtube.com/watch?v=Ui8jZQirfj0&t=3080s"
   date_end: ""
   date_start: "2026-09-16"

@@ -10,6 +10,8 @@ weight: 20
 
 title: News
 ---
+* [**September 24th, 2026**]: **Three papers** accepted to NeurIPS 2026.
+* [**September 23rd, 2026**]: I was interviewed three times by the **Associated Press** on AI safety and security, where AI is heading, and the geopolitics surrounding it; see [here](/post/associated_press_interviews/).
 * [**September 16th, 2026**]: I shared my take on the recent **UK AISI report** on AI agents hijacking systems and carrying out sophisticated social engineering attacks, in conversation with Michael Walker on [Novara Media](/post/novara_media_interview/).
 * [**July 9th, 2026**]: Our paper [LLMs Struggle to Rank Products Robustly](/post/musiml_icml26_award/) received a **Best Paper Award** at an ICML 2026 Workshop. Congratulations to Kumail Alhamoud!
 * [**April 30th, 2026**]: **One papers** accepted to ICML 2026.

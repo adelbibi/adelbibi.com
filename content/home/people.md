@@ -30,6 +30,15 @@ title:
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
+    <!-- Liang Chen -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/liang-chen.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://chanliang.github.io/">Liang Chen</a></h2>
+        <h3>Postdoctoral Researcher, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
   </div> <!-- Closing row -->
 </div> <!-- Closing container -->
 
@@ -76,40 +85,6 @@ title:
 
 
 
-<div class="container"> <!-- Main container for the section (MSc Students)-->
-  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
-    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
-      <h1>MSc Students</h1>
-    </div>
-    <!-- Arshia Hemmat -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/arshia-hemmat.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/arshiahemmat/">Arshia Hemmat</a></h2>
-        <h3>MSc Student, University of Oxford</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Aniruddh Pramod -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/aniruddh-pramod.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://linkedin.com/in/aniruddh-pramod?originalSubdomain=uk">Aniruddh Pramod</a></h2>
-        <h3>MSc Student, University of Oxford</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Maryna Horbach -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/maryna-horbach.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/horbachmp/">Maryna Horbach</a></h2>
-        <h3>MSc Student, University of Oxford</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-  </div> <!-- Closing row -->
-</div> <!-- Closing container -->
 
 
 
@@ -197,6 +172,42 @@ title:
   <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
     <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
       <h1>Graduated MSc Students</h1>
+    </div>
+    <!-- Nuo Xu -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/nuo-xu.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/nuo-xu-694288296/">Nuo Xu</a></h2>
+        <h3>MSc, University of Oxford, 2026</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Arshia Hemmat -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/arshia-hemmat.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/arshiahemmat/">Arshia Hemmat</a></h2>
+        <h3>MSc, University of Oxford, 2026</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Aniruddh Pramod -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/aniruddh-pramod.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://linkedin.com/in/aniruddh-pramod?originalSubdomain=uk">Aniruddh Pramod</a></h2>
+        <h3>MSc, University of Oxford, 2026</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Maryna Horbach -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/maryna-horbach.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/horbachmp/">Maryna Horbach</a></h2>
+        <h3>MSc, University of Oxford, 2026</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
     </div>
     <!-- Sam Wang -->
     <div class="col-12 col-sm-auto people-person">
